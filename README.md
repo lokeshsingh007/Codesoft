@@ -1,3 +1,3 @@
 # Codesoft
 calculator ,
-fruit landing page html,css
+fruit landing page html,css,javascript
